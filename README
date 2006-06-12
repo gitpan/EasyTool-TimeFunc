@@ -1,0 +1,25 @@
+OVERVIEW
+
+The EasyTool module aims to provide a easy to use function set
+
+you can copy and paste some function to embed into your code as easy as possiable
+youc can also make some modification on function
+
+this package inlcude the time operate related function part of EasyTool
+
+All of these feature is in a easy way.
+
+INSTALLATION
+
+To install this module type the following in the distribution
+directory:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+or simply copy EasyTool.pm to your lib path
+
+Author
+	QIAN YU/foolfish@cpan.org
